@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gslc/gslc.iml" filepath="$PROJECT_DIR$/gslc/gslc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gslc/gslc-register/gslc-register.iml" filepath="$PROJECT_DIR$/gslc/gslc-register/gslc-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gslc/gslc-zuul/gslc-zuul.iml" filepath="$PROJECT_DIR$/gslc/gslc-zuul/gslc-zuul.iml" />
+    </modules>
+  </component>
+</project>
